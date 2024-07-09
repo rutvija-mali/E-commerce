@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ page import="com.demo.User" %>
+<%@ page import="com.demo.product.Product" %>
+ <%@ page import="com.demo.product.ProductDao" %>
+ 
+ <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath }/other/getAllProducts.css" >
+<%
+   User user = (User)session.getAttribute("current-user");
+    if(user == null)
+    {
+    	// send msg
+    	response.sendRedirect("login.jsp");
+    	return;
+    }else if(user.getRole() == "customer"){
+    	// send msg
+    	response.sendRedirect("login.jsp");
+    	return;
+    }
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<% 
+    String id = (String)request.getAttribute("id");
+    System.out.print(id);
+  
+
+   
+%>
+
+
+</body>
+</html>

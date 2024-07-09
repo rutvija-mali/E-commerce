@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+ :root{
+      --offcanvas-width :270px;
+      --topNavbarHeight:56px;/* changes fixed-top*/
+      --bs-btn-hover-bg: #6c757d;
+     }
+    #allProductDisplay,#CategoriesDisplay{
+          margin-top:  var(--topNavbarHeight );
+          margin-left: var(--offcanvas-width);
+          width: 100%- var(--offcanvas-width);
+        }
+        @media (max-width:992px) {
+        #allProductDisplay,#CategoriesDisplay{
+         margin-left: 0px !important; 
+        }
+       
+    }

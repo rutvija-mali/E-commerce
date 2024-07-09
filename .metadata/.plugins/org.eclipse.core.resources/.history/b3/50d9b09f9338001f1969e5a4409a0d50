@@ -1,0 +1,39 @@
+package com.demo.order;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+
+
+
+@WebServlet("/orderServlet")
+public class OrderServlet extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		 JSONParser parser = new JSONParser();
+		 
+		try {
+			JSONObject object = (JSONObject) parser.parse(request.getReader());
+			String amount = (String)object.get("price");
+			System.out.println("amount is "+amount);
+		} catch (IOException | ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		 
+		
+		
+	}
+
+}

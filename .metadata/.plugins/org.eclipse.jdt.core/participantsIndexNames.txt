@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\423239680.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2422453634.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3496889764.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4031303665.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2457131175.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3172821456.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\529310919.index
+\my-fashion-app\src\main\java
+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1751929870.index
+\my-fashion-app\src\main\java

@@ -1,0 +1,6 @@
+127.0.0.1 - - [18/Jun/2024:16:28:01 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [18/Jun/2024:16:28:02 +0530] "GET /my-fashion-app/index.jsp HTTP/1.1" 200 5065
+0:0:0:0:0:0:0:1 - - [18/Jun/2024:16:28:02 +0530] "GET /my-fashion-app/other/stylesheet.css?modified=20012009 HTTP/1.1" 200 2207
+0:0:0:0:0:0:0:1 - - [18/Jun/2024:16:28:02 +0530] "GET /my-fashion-app/images/img.png HTTP/1.1" 200 4467
+0:0:0:0:0:0:0:1 - - [18/Jun/2024:16:28:03 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [18/Jun/2024:16:28:14 +0530] "GET /my-fashion-app/login.jsp HTTP/1.1" 200 6743

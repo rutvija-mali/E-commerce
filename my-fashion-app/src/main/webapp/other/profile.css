@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+ #sidebar-user li a{
+      color: black;
+      text-decoration: none;
+      
+    }
+    #main-profile-container{
+      margin: 4%;
+      width: 60%;
+     
+    }
+    #main-profile-container .sidebar{
+      width:20%;
+    }
+    #main-profile-container #main{
+      width: 80%;
+      
+    }
+    @media (max-width:990px) {
+      #main-profile-container{
+        margin: 2%;
+        width: 90%;
+         
+      }
+      
+    }
+    @media (max-width:760px) {
+      #main-profile-container .sidebar{
+       display: none;
+      
+      }
+      #main-profile-container #main{
+      width: 100%;
+      
+    }
+      
+    }
+  
+   

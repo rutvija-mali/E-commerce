@@ -1,0 +1,14 @@
+127.0.0.1 - - [13/Jun/2024:11:23:39 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:23:40 +0530] "GET /my-fashion-app/index.jsp HTTP/1.1" 200 5042
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:23:40 +0530] "GET /my-fashion-app/other/stylesheet.css?modified=20012009 HTTP/1.1" 200 1946
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:23:41 +0530] "GET /my-fashion-app/images/img.png HTTP/1.1" 200 4467
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:23:41 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:23:46 +0530] "GET /my-fashion-app/login.jsp HTTP/1.1" 200 6744
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:00 +0530] "POST /my-fashion-app/loginServlet HTTP/1.1" 200 9114
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:00 +0530] "GET /my-fashion-app/other/admin.css HTTP/1.1" 200 1489
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:03 +0530] "GET /my-fashion-app/admin/dashboard.jsp HTTP/1.1" 200 9114
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:07 +0530] "GET /my-fashion-app/admin/addProduct.jsp HTTP/1.1" 200 11160
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:07 +0530] "GET /my-fashion-app/other/getAllProducts.css HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:14 +0530] "GET /my-fashion-app/admin/dashboard.jsp HTTP/1.1" 200 9114
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:16 +0530] "GET /my-fashion-app/admin/addCategory.jsp HTTP/1.1" 200 6859
+0:0:0:0:0:0:0:1 - - [13/Jun/2024:11:24:16 +0530] "GET /my-fashion-app/other/addCategory.css HTTP/1.1" 200 863

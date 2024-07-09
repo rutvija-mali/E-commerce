@@ -1,0 +1,13 @@
+127.0.0.1 - - [08/Jun/2024:16:22:43 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:22:45 +0530] "GET /my-fashion-app/index.jsp HTTP/1.1" 200 5042
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:22:45 +0530] "GET /my-fashion-app/other/stylesheet.css?modified=20012009 HTTP/1.1" 200 1946
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:22:45 +0530] "GET /my-fashion-app/images/img.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:22:46 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:25:38 +0530] "GET /my-fashion-app/login.jsp HTTP/1.1" 200 6744
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:25:50 +0530] "POST /my-fashion-app/loginServlet HTTP/1.1" 200 5260
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:25:58 +0530] "GET /my-fashion-app/profile.jsp HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:31:19 +0530] "POST /my-fashion-app/loginServlet HTTP/1.1" 500 1483
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:31:31 +0530] "POST /my-fashion-app/loginServlet HTTP/1.1" 500 1483
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:34:03 +0530] "GET /my-fashion-app/login.jsp HTTP/1.1" 200 6962
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:34:03 +0530] "GET /my-fashion-app/other/stylesheet.css?modified=20012009 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:34:15 +0530] "POST /my-fashion-app/loginServlet HTTP/1.1" 200 152

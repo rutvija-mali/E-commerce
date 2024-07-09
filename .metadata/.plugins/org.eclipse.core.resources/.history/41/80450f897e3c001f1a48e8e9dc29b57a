@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link rel="icon" type="image/png" href="${pageContext.request.contextPath}/images/img.png" />
+<title>Online Shopping Destination</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/other/stylesheet.css?modified=20012009">
+</head>
+<body>
+  <% 
+    List<Product> list = ProductDao.getAllProducts();
+    request.setAttribute("list", list);
+    String path = application.getRealPath("img") + File.separator + "product";
+  %>
+  <div class="mb-5 pb-4">
+    <%@ include file="./components/header.jsp" %>
+  </div>
+
+  <!-- Popular Products Section -->
+  <div class="container text-center mt-3 pt-lg-5">
+    <h3 class="text-dark">Popular Products</h3>
+  </div>
+  <div class="container pt-lg-2 pt-1 position-relative" id="owl-carousel">
+    <div class="owl-carousel owl-theme">
+      <c:forEach items="${list}" var="product" begin="0" end="9">
+        <div class="item product-card">
+          <div class="card">
+            <div class="card-body">
+              <div class="text-start position-relative mb-2">
+                <a href="#"><img src="img/product/${product.getImage()}" alt="product-image" class="img-fluid image-container"></a>
+                <div class="product-action d-flex justify-content-center mt-5 gap-1 position-absolute" tabindex="-1" id="little-navigation">
+                  <a href="#" class="px-2 btn" data-bs-toggle="tooltip" title="Quick View"><i class="fa-regular fa-eye" aria-hidden="true"></i></a>
+                  <a href="${pageContext.request.contextPath}/function/saveWishlist.jsp?action=save&product_id=${product.getId()}" class="px-2 btn" data-bs-toggle="tooltip" title="Wishlist"><i class="fa-regular fa-heart" aria-hidden="true"></i></a>
+                  <a href="#" class="px-2 btn" data-bs-toggle="tooltip" title="Compare"><i class="fa-solid fa-arrow-right-arrow-left" aria-hidden="true"></i></a>
+                </div>
+              </div>
+              <h6 class="lh-sm"><a href="#" class="fs-6 text-decoration-none text-truncate pb-0 mb-0" style="max-width: 200px;">${Reduce.reduceDesc(product.getProduct_name())}</a></h6>
+              <div class="mt-0 pt-0 text-start lh-sm">
+                <div class="small">
+                  <small>
+                    <i class="fa-solid fa-star text-warning" style="font-size: 12px;" aria-hidden="true"></i>
+                    <i class="fa-solid fa-star text-warning" style="font-size: 12px;" aria-hidden="true"></i>
+                    <i class="fa-solid fa-star text-warning" style="font-size: 12px;" aria-hidden="true"></i>
+                    <i class="fa-solid fa-star text-warning" style="font-size: 12px;" aria-hidden="true"></i>
+                    <i class="fa-solid fa-star-half-stroke text-warning" style="font-size: 12px;" aria-hidden="true"></i>
+                    <span id="total-star" style="font-size: 12px;">4.5</span>
+                  </small>
+                </div>
+              </div>
+              <div class="d-flex justify-content-between align-items-center">
+                <div>
+                  <span class="me-1" id="price">&#8377;${product.getProduct_price()}</span>
+                  <span class="text-decoration-line-through" id="original-price">&#8377;${product.getOriginal_price()}</span>
+                </div>
+                <div class="d-grid mt-2">
+                  <a href="${pageContext.request.contextPath}/addToCart/saveCart.jsp?action=save&product_id=${product.getId()}" class="btn btn-dark text-light d-flex align-items-center gap-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-plus">
+                      <line x1="12" y1="5" x2="12" y2="19"></line>
+                      <line x1="5" y1="12" x2="19" y2="12"></line>
+                    </svg>
+                    Add 
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </c:forEach>
+    </div>
+    <div class="owl-nav">
+      <button type="button" role="presentation" class="owl-prev">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <button type="button" role="presentation" class="owl-next">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Shop By Categories Section -->
+  <div class="container text-center mt-3 pt-lg-4">
+    <h3 class="text-dark">Shop By Categories</h3>
+  </div>
+  <div class="container" id="category-container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-2 g-lg-3 g-4">
+      <div class="col" id="image-container">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Co-ords"><img src="./images/categories/co-ords.png" alt="co-ords" class="img-fluid category-image"></a>
+      </div>
+      <div class="col">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Denim"><img src="./images/categories/denime_Cat.png" alt="denim" class="img-fluid category-image"></a>
+      </div>
+      <div class="col">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Dresses"><img src="./images/categories/dresses.png" alt="dresses" class="img-fluid category-image"></a>
+      </div>
+      <div class="col">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Skirts and Shorts"><img src="./images/categories/skirt_shorts.png" alt="skirts and shorts" class="img-fluid category-image"></a>
+      </div>
+      <div class="col">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Kurtis"><img src="./images/categories/kurtis.png" alt="kurtis" class="img-fluid category-image"></a>
+      </div>
+      <div class="col">
+        <a href="${pageContext.request.contextPath}/product.jsp?category=Tees"><img src="./images/categories/tees.png" alt="tees" class="img-fluid category-image"></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-eztlOoLqC4AYY3tX5O38t0x7k50P0XYrQ9h02qgOHVuCT5OHjDHrkgzpyw7p5Um9" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-3f/ujYiuT3Edj7GkQ97paMXRxuERfx2y/mPPgkEB6oH2cYlAI0IpwG0Ri6HH4sTbDAS3inBG16gDMVsNNkjFkg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script>
+    // Initialize tooltips
+    document.addEventListener('DOMContentLoaded', function () {
+      var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+      var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+      })
+    });
+
+    // Initialize owl carousel
+    $(document).ready(function(){
+      $(".owl-carousel").owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+          0:{
+            items:1
+          },
+          600:{
+            items:3
+          },
+          1000:{
+            items:5
+          }
+        }
+      });
+    });
+  </script>
+</body>
+</html>
+

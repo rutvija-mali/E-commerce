@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+:root{
+      --offcanvas-width :270px;
+      --topNavbarHeight:56px;
+      
+      
+      
+      --light-grey:#999;
+      --pink:#CD0E57;
+      --dark-grey:#757886;
+      --general:#333;
+      --white:#fff;
+      --black:#000000;
+      
+     }
+ #wishlist-span a small,.price-total .price-actual , .table .quantity a i{
+    color: var(--light-grey) ;
+    
+   }
+   .price-total i{
+    font-size: 0.67rem;
+   }
+   .table .quantity a i{
+    transition: color 0.3s ease;
+   }
+   .table .quantity a :hover{
+      color:var(--black);
+   }
+   .table {
+        border-collapse: separate;
+        border-spacing: 0 15px;
+      }
+   #bill-container{
+    box-shadow: 0 2px 15px rgba(0, 0, 0, .1);
+   
+   }
+  #addtocart{
+  margin-top: 5%;
+  }
+  #wishlist-span a:hover{
+   color:var(--black);
+  }

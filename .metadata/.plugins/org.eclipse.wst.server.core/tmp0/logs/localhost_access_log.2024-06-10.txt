@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Jun/2024:16:12:04 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [10/Jun/2024:16:12:07 +0530] "GET /my-fashion-app/index.jsp HTTP/1.1" 200 5042
+0:0:0:0:0:0:0:1 - - [10/Jun/2024:16:12:07 +0530] "GET /my-fashion-app/other/stylesheet.css?modified=20012009 HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2024:16:12:07 +0530] "GET /my-fashion-app/images/img.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2024:16:12:07 +0530] "GET /favicon.ico HTTP/1.1" 404 763

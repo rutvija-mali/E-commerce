@@ -1,0 +1,676 @@
+
+Jun 06, 2024 14:41:56.76 NEW SESSION
+Jun 06, 2024 14:41:56.76 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 06, 2024 14:42:34.33 [5580:17244:0606/144234.338:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 06, 2024 15:11:34.09 [5580:16592:0606/151134.098:ERROR:device_event_log_impl.cc(195)] [15:11:34.084] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2024 15:11:43.68 [5580:16592:0606/151143.688:ERROR:device_event_log_impl.cc(195)] [15:11:43.677] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2024 15:11:58.49 [5580:16592:0606/151158.494:ERROR:device_event_log_impl.cc(195)] [15:11:58.482] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jun 06, 2024 20:12:21.11 NEW SESSION
+Jun 06, 2024 20:12:21.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 06, 2024 20:16:31.60 [4120:20108:0606/201631.608:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 06, 2024 20:16:31.61 [4120:20108:0606/201631.610:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 06, 2024 20:16:31.61 [4120:20108:0606/201631.610:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 06, 2024 20:16:31.61 [4120:20108:0606/201631.613:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 06, 2024 20:23:00.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 06, 2024 20:27:29.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 06, 2024 20:38:13.00 [15072:8808:0606/203813.005:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 08:44:43.84 [15072:8808:0607/084443.839:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 08:44:45.84 [15072:8808:0607/084445.849:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2024 08:44:45.84 [15072:22036:0607/084445.849:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 07, 2024 08:44:52.49 [15072:22376:0607/084452.498:ERROR:device_event_log_impl.cc(195)] [08:44:52.507] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jun 07, 2024 11:43:27.93 NEW SESSION
+Jun 07, 2024 11:43:27.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 11:44:55.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 11:54:46.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 11:55:19.29 [11504:20988:0607/115519.297:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 07, 2024 12:05:33.42 [11504:20988:0607/120533.426:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 07, 2024 12:06:01.24 [11504:20988:0607/120601.245:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:06:01.24 [11504:20988:0607/120601.246:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:06:01.24 [11504:20988:0607/120601.246:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:06:01.24 [11504:20988:0607/120601.248:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:06:02.89 [11504:20988:0607/120602.889:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:06:16.15 [11504:20988:0607/120616.153:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:06:16.15 [11504:20988:0607/120616.153:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:06:16.15 [11504:20988:0607/120616.153:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:06:16.16 [11504:20988:0607/120616.159:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:08:04.13 [11504:20988:0607/120804.136:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:08:04.14 [11504:20988:0607/120804.136:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:08:04.82 [11504:20988:0607/120804.826:ERROR:CONSOLE(1)] "Request Storage.getStorageKeyForFrame failed. {"code":-32602,"message":"Frame tree node for given frame not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:20:47.14 [11504:20988:0607/122047.139:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:20:47.14 [11504:20988:0607/122047.141:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:20:47.14 [11504:20988:0607/122047.141:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:20:47.15 [11504:20988:0607/122047.151:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:37:07.40 [11504:20988:0607/123707.369:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:37:07.40 [11504:20988:0607/123707.369:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:37:07.41 [11504:20988:0607/123707.369:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:37:07.41 [11504:20988:0607/123707.384:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:37:31.07 [11504:20988:0607/123731.073:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:37:31.08 [11504:20988:0607/123731.073:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:37:31.08 [11504:20988:0607/123731.073:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:37:58.17 [11504:20988:0607/123758.176:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:37:58.18 [11504:20988:0607/123758.176:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:37:58.18 [11504:20988:0607/123758.176:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:37:58.19 [11504:20988:0607/123758.197:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:42:01.81 [11504:20988:0607/124201.818:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:42:01.81 [11504:20988:0607/124201.818:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:42:01.81 [11504:20988:0607/124201.818:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:43:24.59 [11504:20988:0607/124324.595:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:43:24.59 [11504:20988:0607/124324.595:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:43:24.59 [11504:20988:0607/124324.595:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:43:24.59 [11504:20988:0607/124324.595:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:43:42.12 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:43:42.13 [11504:20988:0607/124342.121:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:44:22.68 [11504:20988:0607/124422.682:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:44:22.68 [11504:20988:0607/124422.684:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:44:22.68 [11504:20988:0607/124422.685:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:44:22.69 [11504:20988:0607/124422.687:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:46:05.47 [11504:20988:0607/124605.474:ERROR:device_event_log_impl.cc(195)] [12:46:05.475] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 07, 2024 12:47:37.65 [11504:20988:0607/124737.650:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:47:37.65 [11504:20988:0607/124737.650:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:47:37.65 [11504:20988:0607/124737.650:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:47:37.65 [11504:20988:0607/124737.650:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:48:16.08 [11504:20988:0607/124816.080:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:48:23.67 [11504:20988:0607/124823.675:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:48:23.67 [11504:20988:0607/124823.675:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:48:23.67 [11504:20988:0607/124823.675:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:48:23.68 [11504:20988:0607/124823.688:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:48:39.55 [11504:20988:0607/124839.554:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:48:39.55 [11504:20988:0607/124839.555:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:48:39.55 [11504:20988:0607/124839.556:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:48:39.55 [11504:20988:0607/124839.558:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:49:06.56 [11504:20988:0607/124906.563:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:49:06.56 [11504:20988:0607/124906.563:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:49:06.56 [11504:20988:0607/124906.563:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:49:06.57 [11504:20988:0607/124906.575:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:50:25.65 [11504:20988:0607/125025.653:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:50:25.65 [11504:20988:0607/125025.653:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:50:25.65 [11504:20988:0607/125025.653:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:50:25.66 [11504:20988:0607/125025.669:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:50:44.11 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:50:44.11 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:50:44.11 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:50:44.11 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:50:44.13 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:50:44.13 [11504:20988:0607/125044.115:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:50:44.13 [11504:20988:0607/125044.131:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:59:26.41 [11504:20988:0607/125926.405:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:59:26.42 [11504:20988:0607/125926.405:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:59:26.42 [11504:20988:0607/125926.405:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:59:26.42 [11504:20988:0607/125926.419:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 12:59:43.37 [11504:20988:0607/125943.371:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 12:59:43.37 [11504:20988:0607/125943.372:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 12:59:43.37 [11504:20988:0607/125943.372:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 12:59:43.38 [11504:20988:0607/125943.379:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:02:13.39 [11504:20988:0607/130213.375:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:02:13.39 [11504:20988:0607/130213.391:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:02:13.39 [11504:20988:0607/130213.391:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:02:13.39 [11504:20988:0607/130213.391:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:02:57.05 [11504:20988:0607/130257.057:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:02:57.05 [11504:20988:0607/130257.057:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:02:57.05 [11504:20988:0607/130257.057:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:02:57.05 [11504:20988:0607/130257.057:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:04:09.10 [11504:20988:0607/130409.096:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:04:09.10 [11504:20988:0607/130409.103:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:04:09.10 [11504:20988:0607/130409.103:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:04:09.10 [11504:20988:0607/130409.103:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:04:40.07 [11504:20988:0607/130440.077:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:04:40.07 [11504:20988:0607/130440.077:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:04:40.07 [11504:20988:0607/130440.077:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:04:40.09 [11504:20988:0607/130440.093:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:05:02.09 [11504:20988:0607/130502.098:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:05:02.09 [11504:20988:0607/130502.099:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:05:02.09 [11504:20988:0607/130502.099:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:05:02.10 [11504:20988:0607/130502.099:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:06:02.65 [11504:20988:0607/130602.656:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:06:02.65 [11504:20988:0607/130602.656:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:06:02.65 [11504:20988:0607/130602.656:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:06:02.65 [11504:20988:0607/130602.658:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:06:46.59 [11504:20988:0607/130646.598:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:06:46.59 [11504:20988:0607/130646.598:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:06:46.59 [11504:20988:0607/130646.598:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:06:46.61 [11504:20988:0607/130646.613:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:06:46.68 [11504:20988:0607/130646.685:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:06:46.68 [11504:20988:0607/130646.685:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:06:46.68 [11504:20988:0607/130646.685:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:07:12.11 [11504:20988:0607/130712.119:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:07:12.12 [11504:20988:0607/130712.119:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:07:12.12 [11504:20988:0607/130712.119:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:07:12.13 [11504:20988:0607/130712.130:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:07:19.90 [11504:20988:0607/130719.906:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:07:19.90 [11504:20988:0607/130719.906:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:07:19.90 [11504:20988:0607/130719.906:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:07:19.90 [11504:20988:0607/130719.906:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:07:21.08 [11504:20988:0607/130721.086:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 07, 2024 13:07:21.09 [11504:20988:0607/130721.086:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 07, 2024 13:07:21.09 [11504:20988:0607/130721.086:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 07, 2024 13:07:21.09 [11504:20988:0607/130721.086:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 07, 2024 13:36:34.99 [11504:11704:0607/133634.997:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 13:36:35.73 [11504:11704:0607/133635.735:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 14:09:18.17 [11504:11704:0607/140918.178:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 07, 2024 14:12:36.96 [11504:20988:0607/141236.961:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 07, 2024 14:55:04.61 [11504:11704:0607/145504.614:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 15:15:35.52 [11504:11704:0607/151535.511:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jun 07, 2024 15:36:20.22 [11504:11704:0607/153620.221:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:20.22 [11504:11704:0607/153620.221:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:31.26 [11504:11704:0607/153631.268:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:36.15 [11504:11704:0607/153636.158:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:45.28 [11504:11704:0607/153645.281:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:50.69 [11504:11704:0607/153650.693:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:36:59.72 [11504:11704:0607/153659.727:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:37:17.60 [11504:11704:0607/153717.607:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:37:29.16 [11504:11704:0607/153729.164:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:37:38.84 [11504:11704:0607/153738.845:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:37:43.17 [11504:20988:0607/153743.174:ERROR:device_event_log_impl.cc(195)] [15:37:43.172] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 07, 2024 15:37:44.66 [11504:11704:0607/153744.669:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:37:59.19 [11504:11704:0607/153759.195:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 07, 2024 15:40:00.72 [11504:11704:0607/154000.728:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 15:46:21.96 [11504:11704:0607/154621.961:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 07, 2024 15:46:21.96 [11504:11704:0607/154621.961:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jun 07, 2024 16:06:29.23 [11504:11704:0607/160629.234:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 16:21:05.34 [11504:11704:0607/162105.347:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jun 07, 2024 16:21:19.61 [11504:20988:0607/162119.619:ERROR:device_event_log_impl.cc(195)] [16:21:19.625] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 07, 2024 16:31:12.67 [11504:20988:0607/163112.676:ERROR:device_event_log_impl.cc(195)] [16:31:12.678] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 07, 2024 16:39:58.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 16:45:27.51 [23028:20892:0607/164527.516:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 16:46:14.40 [23028:20892:0607/164614.402:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 07, 2024 16:46:15.32 [23028:9256:0607/164615.322:ERROR:event_ack_data.cc(49)] StartExternalRequest failed: 2
+Jun 07, 2024 16:46:17.18 [23028:9256:0607/164617.185:ERROR:device_event_log_impl.cc(195)] [16:46:17.178] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 07, 2024 17:03:54.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 07, 2024 17:07:27.76 [22236:1556:0607/170727.763:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 08, 2024 10:27:04.81 [22236:1556:0608/102704.811:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 08, 2024 10:27:09.01 [22236:1556:0608/102709.008:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 08, 2024 10:27:09.01 [22236:10904:0608/102709.012:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Jun 08, 2024 10:27:28.20 [22236:1556:0608/102728.202:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 08, 2024 10:27:36.26 [22236:1556:0608/102736.265:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Jun 08, 2024 16:22:47.87 NEW SESSION
+Jun 08, 2024 16:22:47.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 08, 2024 16:40:13.02 [4328:12188:0608/164013.025:ERROR:device_event_log_impl.cc(195)] [16:40:13.023] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 08, 2024 17:33:29.38 [4328:14040:0608/173329.380:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 08, 2024 17:33:36.65 [4328:12188:0608/173336.656:ERROR:device_event_log_impl.cc(195)] [17:33:36.656] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 08, 2024 17:54:00.56 [4328:18504:0608/175400.559:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 08, 2024 17:54:20.00 [4328:18504:0608/175420.002:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 08, 2024 18:09:16.93 [4328:12188:0608/180916.935:ERROR:device_event_log_impl.cc(195)] [18:09:16.918] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 08, 2024 18:14:27.78 [4328:18504:0608/181427.787:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 08, 2024 18:30:50.80 [4328:18504:0608/183050.802:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Jun 10, 2024 16:12:10.25 NEW SESSION
+Jun 10, 2024 16:12:10.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 11, 2024 14:05:09.95 NEW SESSION
+Jun 11, 2024 14:05:09.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 14:29:30.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.119:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.122:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.123:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.123:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.123:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 11, 2024 14:41:28.12 [23608:17484:0611/144128.124:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 11, 2024 14:41:28.13 [23608:17484:0611/144128.130:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 11, 2024 14:42:23.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 14:46:07.38 [11280:5896:0611/144607.381:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 11, 2024 15:09:31.84 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 15:25:21.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 15:30:40.25 [24360:9904:0611/153040.250:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 11, 2024 15:30:55.36 [24360:9904:0611/153055.364:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 11, 2024 15:31:30.07 [24360:9904:0611/153130.074:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 11, 2024 15:32:49.04 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 15:34:05.86 [19568:18760:0611/153405.863:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 11, 2024 15:39:03.99 [19568:18760:0611/153903.999:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jun 11, 2024 15:43:00.63 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 15:46:15.98 [23556:6388:0611/154615.984:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 11, 2024 15:52:24.99 [23556:6388:0611/155224.993:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+
+Jun 11, 2024 21:15:43.74 NEW SESSION
+Jun 11, 2024 21:15:43.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 11, 2024 21:45:00.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 17, 2024 09:17:14.46 NEW SESSION
+Jun 17, 2024 09:17:14.48 [14656:3140:0617/091714.465:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/LIOjLkZTJbS8vDK5niJj3UHEaTw.gz.js (2)
+Jun 17, 2024 09:17:14.54 [14656:3140:0617/091714.543:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/LIOjLkZTJbS8vDK5niJj3UHEaTw.gz.js (2)
+Jun 17, 2024 09:17:38.41 [14656:3140:0617/091738.416:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/LIOjLkZTJbS8vDK5niJj3UHEaTw.gz.js (2)
+Jun 17, 2024 09:17:38.44 [14656:3140:0617/091738.447:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/LIOjLkZTJbS8vDK5niJj3UHEaTw.gz.js (2)
+Jun 17, 2024 09:29:14.18 [14656:3140:0617/092914.186:ERROR:chrome_web_ui_controller_factory.cc(1619)] Requested load of chrome://newtab/ for incorrect profile type.
+Jun 17, 2024 09:29:26.29 [14656:3140:0617/092926.291:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 17, 2024 09:52:49.44 [14656:3140:0617/095249.444:ERROR:wtm_interface_impl.cc(605)] Failed to set tab TreatAsSecondaryTileId. tab_observer is null
+Jun 17, 2024 09:52:49.44 [14656:3140:0617/095249.444:ERROR:wtm_interface_impl.cc(568)] SetTabTreatAsSecondaryTileIdHelper(contents) failed, hr=0x80004005
+Jun 17, 2024 09:52:54.44 [14656:3140:0617/095254.444:ERROR:wtm_interface_impl.cc(605)] Failed to set tab TreatAsSecondaryTileId. tab_observer is null
+Jun 17, 2024 09:52:54.44 [14656:3140:0617/095254.444:ERROR:wtm_interface_impl.cc(568)] SetTabTreatAsSecondaryTileIdHelper(contents) failed, hr=0x80004005
+Jun 17, 2024 10:47:41.08 [14656:3140:0617/104741.082:ERROR:device_event_log_impl.cc(240)] [10:47:41.092] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 17, 2024 13:00:59.55 [14656:3140:0617/130059.552:ERROR:chrome_web_ui_controller_factory.cc(1619)] Requested load of chrome://newtab/ for incorrect profile type.
+Jun 17, 2024 13:02:09.64 [14656:3140:0617/130209.643:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 17, 2024 15:08:35.51 [14656:3140:0617/150835.511:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 17, 2024 15:50:25.70 [14656:3900:0617/155025.705:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 17, 2024 15:50:25.70 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 17, 2024 15:50:25.70 ERROR: Failed parsing Certificate
+Jun 17, 2024 15:50:25.70 
+Jun 17, 2024 15:50:25.80 [14656:3900:0617/155025.805:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for code.yengo.com failed:
+Jun 17, 2024 15:50:25.80 ----- Certificate i=0 (CN=code.yengo.com) -----
+Jun 17, 2024 15:50:25.80 ERROR: Time is after notAfter
+Jun 17, 2024 15:50:25.80 
+Jun 17, 2024 15:50:25.80 
+Jun 17, 2024 15:50:27.33 [14656:3140:0617/155027.333:ERROR:fallback_task_provider.cc(127)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Jun 17, 2024 16:03:00.51 [14656:3900:0617/160300.515:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for prod5c.rewardsplatform.microsoft.com failed:
+Jun 17, 2024 16:03:00.51 ----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+Jun 17, 2024 16:03:00.51 ERROR: No matching issuer found
+Jun 17, 2024 16:03:00.51 
+Jun 17, 2024 16:03:00.51 
+Jun 17, 2024 16:09:24.03 [14656:3140:0617/160924.038:ERROR:fallback_task_provider.cc(127)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Jun 17, 2024 16:25:52.18 [14656:3140:0617/162552.180:ERROR:chrome_web_ui_controller_factory.cc(1619)] Requested load of chrome://newtab/ for incorrect profile type.
+Jun 17, 2024 16:25:58.81 [14656:3900:0617/162558.813:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 17, 2024 16:25:58.81 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 17, 2024 16:25:58.81 ERROR: Failed parsing Certificate
+Jun 17, 2024 16:25:58.81 
+Jun 17, 2024 16:25:58.81 [14656:3900:0617/162558.818:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for code.yengo.com failed:
+Jun 17, 2024 16:25:58.81 ----- Certificate i=0 (CN=code.yengo.com) -----
+Jun 17, 2024 16:25:58.82 ERROR: Time is after notAfter
+Jun 17, 2024 16:25:58.82 
+Jun 17, 2024 16:25:58.82 
+Jun 17, 2024 16:26:00.30 [14656:3140:0617/162600.308:ERROR:chrome_web_ui_controller_factory.cc(1619)] Requested load of chrome://newtab/ for incorrect profile type.
+
+Jun 20, 2024 21:12:14.97 NEW SESSION
+Jun 20, 2024 21:12:14.98 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 20, 2024 21:12:20.78 [6064:23192:0620/211220.787:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2024 21:12:56.54 [6064:23192:0620/211256.541:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2024 21:13:55.95 [6064:23192:0620/211355.959:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2024 21:55:15.43 [6064:23192:0620/215515.432:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 20, 2024 21:55:16.24 [6064:5520:0620/215516.245:ERROR:device_event_log_impl.cc(196)] [21:55:16.244] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 20, 2024 22:18:01.87 [6064:5520:0620/221801.873:ERROR:device_event_log_impl.cc(196)] [22:18:01.873] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 20, 2024 22:43:42.49 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 21, 2024 11:48:40.27 NEW SESSION
+Jun 21, 2024 11:48:40.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 21, 2024 12:00:52.17 [3864:24236:0621/120052.177:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2024 12:00:52.18 [3864:24236:0621/120052.178:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2024 12:01:06.15 [3864:24236:0621/120106.158:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2024 12:01:21.28 [3864:24236:0621/120121.289:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2024 12:01:27.37 [3864:24236:0621/120127.372:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2024 13:10:29.17 [3864:9996:0621/131029.176:ERROR:device_event_log_impl.cc(196)] [13:10:29.184] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 21, 2024 14:34:47.40 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 21, 2024 14:49:23.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 21, 2024 15:07:17.33 [21892:5284:0621/150717.335:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 21, 2024 15:48:37.97 [21892:15916:0621/154837.976:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:49:22.99 [21892:15916:0621/154922.991:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:52:11.77 [21892:15916:0621/155211.775:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:52:56.79 [21892:15916:0621/155256.791:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:54:04.29 [21892:15916:0621/155404.294:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:55:45.54 [21892:15916:0621/155545.548:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 15:59:58.69 [21892:15916:0621/155958.690:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 16:06:18.39 [21892:15916:0621/160618.392:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 16:24:35.25 [21892:23980:0621/162435.249:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 16:38:31.92 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 21, 2024 17:01:46.81 NEW SESSION
+Jun 21, 2024 17:01:46.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 21, 2024 19:21:17.09 NEW SESSION
+Jun 21, 2024 19:21:17.10 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 21, 2024 19:34:37.04 NEW SESSION
+Jun 21, 2024 19:34:37.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 21, 2024 19:40:51.73 [8644:9952:0621/194051.739:ERROR:device_event_log_impl.cc(196)] [19:40:51.744] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 21, 2024 19:42:42.19 [8644:5668:0621/194242.193:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 21, 2024 20:47:58.16 [8644:8960:0621/204758.168:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 21, 2024 20:50:39.42 [8644:5668:0621/205039.425:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 21, 2024 20:58:59.04 [8644:5668:0621/205859.044:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jun 21, 2024 22:06:06.84 [8644:9952:0621/220606.809:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 21, 2024 22:15:18.98 [8644:5668:0621/221518.983:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 21, 2024 22:15:19.37 [8644:9952:0621/221519.375:ERROR:device_event_log_impl.cc(196)] [22:15:19.379] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 21, 2024 22:50:26.72 [8644:9952:0621/225026.723:ERROR:device_event_log_impl.cc(196)] [22:50:26.727] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 21, 2024 23:38:09.51 [8644:9952:0621/233809.517:ERROR:CONSOLE(8)] "Uncaught (in promise) Error: Node cannot be found in the current page.", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/elements/elements.js (8)
+
+Jun 22, 2024 13:36:13.72 NEW SESSION
+Jun 22, 2024 13:36:13.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 22, 2024 14:05:15.64 [1812:16480:0622/140515.640:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 22, 2024 14:31:24.78 [1812:16480:0622/143124.768:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 22, 2024 15:09:04.76 [1812:1948:0622/150904.749:ERROR:device_event_log_impl.cc(196)] [15:09:04.757] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 22, 2024 15:59:47.78 [1812:16480:0622/155947.780:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 22, 2024 16:09:29.96 [1812:16480:0622/160929.961:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 22, 2024 16:09:29.96 [1812:16480:0622/160929.961:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jun 22, 2024 16:57:11.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 24, 2024 19:30:17.66 NEW SESSION
+Jun 24, 2024 19:30:17.67 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 24, 2024 19:35:51.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 24, 2024 19:36:13.66 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 24, 2024 19:46:44.55 [8428:23704:0624/194644.550:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 24, 2024 20:11:57.08 [8428:23704:0624/201157.083:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 24, 2024 20:16:14.97 [8428:23704:0624/201614.960:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 24, 2024 20:16:14.97 [8428:23704:0624/201614.960:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jun 24, 2024 20:22:21.69 [8428:23704:0624/202221.690:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 24, 2024 22:07:48.14 [8428:23704:0624/220748.145:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2024 22:08:00.51 [8428:23704:0624/220800.518:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 24, 2024 22:08:15.63 [8428:23704:0624/220815.638:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 24, 2024 22:08:51.36 [8428:23704:0624/220851.367:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 24, 2024 22:10:22.00 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 24, 2024 22:12:03.49 [21524:22224:0624/221203.490:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 24, 2024 22:41:13.18 [21524:22224:0624/224113.182:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 24, 2024 22:41:41.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 24, 2024 22:42:35.45 [17980:24432:0624/224235.459:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 24, 2024 22:44:41.42 [17980:24432:0624/224441.424:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Jun 25, 2024 12:03:58.11 NEW SESSION
+Jun 25, 2024 12:03:58.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 25, 2024 12:33:06.01 [8124:16404:0625/123306.012:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 25, 2024 12:42:17.41 [8124:23712:0625/124217.412:ERROR:device_event_log_impl.cc(196)] [12:42:17.412] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 25, 2024 13:07:54.80 [8124:16404:0625/130754.800:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 25, 2024 13:35:29.07 [8124:16404:0625/133529.078:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 25, 2024 13:35:29.09 [8124:16404:0625/133529.078:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jun 25, 2024 14:10:52.06 [8124:16404:0625/141052.061:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 25, 2024 14:11:03.44 [8124:23712:0625/141103.444:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:11:03.44 [8124:23712:0625/141103.444:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:11:03.44 [8124:23712:0625/141103.444:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:11:03.45 [8124:23712:0625/141103.454:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:18:28.31 [8124:23712:0625/141828.315:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:18:28.32 [8124:23712:0625/141828.319:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:18:28.32 [8124:23712:0625/141828.319:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:18:28.35 [8124:23712:0625/141828.353:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:19:02.98 [8124:23712:0625/141902.987:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:19:02.98 [8124:23712:0625/141902.988:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:19:02.98 [8124:23712:0625/141902.989:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:19:03.06 [8124:23712:0625/141902.998:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:21:49.01 [8124:23712:0625/142149.014:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:21:49.01 [8124:23712:0625/142149.016:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:21:49.01 [8124:23712:0625/142149.017:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:21:49.03 [8124:23712:0625/142149.030:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:22:27.99 [8124:23712:0625/142227.991:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:22:27.99 [8124:23712:0625/142227.992:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:22:27.99 [8124:23712:0625/142227.993:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:22:28.00 [8124:23712:0625/142228.005:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:44:14.05 [8124:23712:0625/144414.054:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:44:14.05 [8124:23712:0625/144414.054:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:44:14.05 [8124:23712:0625/144414.055:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:44:14.06 [8124:23712:0625/144414.064:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:55:45.16 [8124:23712:0625/145545.160:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:55:45.16 [8124:23712:0625/145545.162:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:55:45.16 [8124:23712:0625/145545.162:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:55:45.16 [8124:23712:0625/145545.167:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:57:01.34 [8124:23712:0625/145701.344:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:57:01.34 [8124:23712:0625/145701.346:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:57:01.34 [8124:23712:0625/145701.347:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:57:01.35 [8124:23712:0625/145701.358:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:58:24.01 [8124:23712:0625/145824.012:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:58:24.01 [8124:23712:0625/145824.013:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:58:24.01 [8124:23712:0625/145824.013:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:58:24.02 [8124:23712:0625/145824.020:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 14:59:18.35 [8124:23712:0625/145918.355:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 14:59:18.35 [8124:23712:0625/145918.356:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 14:59:18.35 [8124:23712:0625/145918.356:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 14:59:18.37 [8124:23712:0625/145918.372:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:01:35.31 [8124:23712:0625/150135.312:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 15:01:35.31 [8124:23712:0625/150135.315:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 15:01:35.31 [8124:23712:0625/150135.316:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 15:01:35.33 [8124:23712:0625/150135.333:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:03:58.14 [8124:23712:0625/150358.147:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 15:03:58.15 [8124:23712:0625/150358.147:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 15:03:58.15 [8124:23712:0625/150358.147:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 15:03:58.15 [8124:23712:0625/150358.152:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:06:28.51 [8124:16404:0625/150628.511:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 25, 2024 15:06:28.55 [8124:16404:0625/150628.557:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 25, 2024 15:28:08.42 [8124:16404:0625/152808.424:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 25, 2024 15:28:36.41 [8124:16404:0625/152836.410:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 25, 2024 15:35:30.98 [8124:23712:0625/153530.982:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 15:35:30.98 [8124:23712:0625/153530.985:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 15:35:30.98 [8124:23712:0625/153530.985:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 15:35:30.99 [8124:23712:0625/153530.997:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:41:46.19 [8124:23712:0625/154146.194:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 15:41:46.19 [8124:23712:0625/154146.196:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 15:41:46.19 [8124:23712:0625/154146.196:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 15:41:46.20 [8124:23712:0625/154146.202:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:42:17.29 [8124:23712:0625/154217.299:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 15:42:17.30 [8124:23712:0625/154217.301:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 15:42:17.30 [8124:23712:0625/154217.301:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 15:42:17.30 [8124:23712:0625/154217.308:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 15:57:40.58 [8124:23712:0625/155740.587:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 25, 2024 15:59:00.67 [8124:23712:0625/155900.671:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 25, 2024 15:59:42.35 [8124:23712:0625/155942.356:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 25, 2024 16:16:27.12 [8124:23712:0625/161627.126:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 16:16:27.13 [8124:23712:0625/161627.127:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 16:16:27.13 [8124:23712:0625/161627.127:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 16:16:27.14 [8124:23712:0625/161627.147:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 25, 2024 16:20:13.23 [8124:23712:0625/162013.237:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 25, 2024 16:20:13.24 [8124:23712:0625/162013.239:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 25, 2024 16:20:13.24 [8124:23712:0625/162013.240:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 25, 2024 16:20:13.26 [8124:23712:0625/162013.266:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+
+Jun 26, 2024 13:44:25.92 NEW SESSION
+Jun 26, 2024 13:44:25.93 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 26, 2024 13:47:56.02 [11200:12460:0626/134756.028:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 13:47:56.03 [11200:12460:0626/134756.031:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 13:47:56.03 [11200:12460:0626/134756.032:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 13:47:56.09 [11200:12460:0626/134756.097:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 13:51:03.32 [11200:12460:0626/135103.321:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 13:51:03.32 [11200:12460:0626/135103.322:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 13:51:03.32 [11200:12460:0626/135103.322:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 13:51:03.32 [11200:12460:0626/135103.328:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:05:38.17 [11200:12460:0626/140538.171:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:05:38.17 [11200:12460:0626/140538.173:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:05:38.17 [11200:12460:0626/140538.174:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:05:38.18 [11200:12460:0626/140538.187:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:11:00.17 [11200:12460:0626/141100.177:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:11:00.17 [11200:12460:0626/141100.179:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:11:00.18 [11200:12460:0626/141100.179:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:11:00.20 [11200:12460:0626/141100.200:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:13:15.42 [11200:12460:0626/141315.429:ERROR:device_event_log_impl.cc(196)] [14:13:15.434] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 26, 2024 14:13:25.55 [11200:18332:0626/141325.554:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 26, 2024 14:30:52.28 [11200:12460:0626/143052.281:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:30:52.28 [11200:12460:0626/143052.282:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:30:52.29 [11200:12460:0626/143052.282:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:30:52.30 [11200:12460:0626/143052.299:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:32:44.18 [11200:12460:0626/143244.186:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:32:44.18 [11200:12460:0626/143244.187:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:32:44.18 [11200:12460:0626/143244.188:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:32:44.20 [11200:12460:0626/143244.201:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:34:30.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 26, 2024 14:51:29.20 [24156:13688:0626/145129.184:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:51:29.24 [24156:13688:0626/145129.189:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:51:29.24 [24156:13688:0626/145129.190:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:51:29.29 [24156:13688:0626/145129.289:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 14:51:58.07 [24156:13688:0626/145158.077:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 14:51:58.07 [24156:13688:0626/145158.078:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 14:51:58.08 [24156:13688:0626/145158.078:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 14:51:58.08 [24156:13688:0626/145158.085:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 15:08:39.16 [24156:13688:0626/150839.164:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 15:08:39.16 [24156:13688:0626/150839.165:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 15:08:39.17 [24156:13688:0626/150839.165:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 15:08:39.17 [24156:13688:0626/150839.175:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 15:09:14.01 [24156:13688:0626/150914.016:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 15:09:14.01 [24156:13688:0626/150914.017:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 15:09:14.01 [24156:13688:0626/150914.017:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 15:09:14.02 [24156:13688:0626/150914.027:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jun 26, 2024 15:14:07.73 [24156:20472:0626/151407.721:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 26, 2024 15:28:08.11 [24156:13688:0626/152808.066:ERROR:device_event_log_impl.cc(196)] [15:28:08.059] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 26, 2024 15:32:30.90 [24156:13688:0626/153230.900:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jun 26, 2024 15:32:30.90 [24156:13688:0626/153230.902:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jun 26, 2024 15:32:30.90 [24156:13688:0626/153230.902:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jun 26, 2024 15:32:30.91 [24156:13688:0626/153230.918:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+
+Jun 27, 2024 12:33:44.50 NEW SESSION
+Jun 27, 2024 12:33:44.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 27, 2024 12:40:34.37 [19352:16316:0627/124034.377:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 27, 2024 12:50:27.81 [19352:16316:0627/125027.811:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 27, 2024 13:05:51.86 [19352:8164:0627/130551.859:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 14:15:31.22 [19352:8164:0627/141531.221:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 14:31:53.09 [19352:16316:0627/143153.099:ERROR:device_event_log_impl.cc(196)] [14:31:53.105] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 27, 2024 14:47:34.40 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 27, 2024 15:13:49.76 [9844:16056:0627/151349.766:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 15:17:35.83 [9844:16056:0627/151735.831:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 15:17:36.45 [9844:16056:0627/151736.454:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 27, 2024 15:22:33.11 [9844:16056:0627/152233.114:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2024 15:29:29.59 [9844:19664:0627/152929.594:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 27, 2024 16:03:06.67 [9844:16056:0627/160306.663:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jun 27, 2024 17:35:34.39 NEW SESSION
+Jun 27, 2024 17:35:34.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 27, 2024 18:02:16.57 [2952:15000:0627/180216.575:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jun 27, 2024 18:10:13.98 [2952:3820:0627/181013.987:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 18:27:38.07 [2952:3820:0627/182738.072:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 19:33:27.30 [2952:3820:0627/193327.290:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 27, 2024 20:50:23.08 [2952:25156:0627/205023.088:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Jun 27, 2024 20:54:52.30 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 27, 2024 21:22:49.22 [24672:20768:0627/212249.205:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jun 30, 2024 07:19:42.78 NEW SESSION
+Jun 30, 2024 07:19:42.81 [14592:16696:0630/071942.770:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for prod5c.rewardsplatform.microsoft.com failed:
+Jun 30, 2024 07:19:42.81 ----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+Jun 30, 2024 07:19:42.82 ERROR: No matching issuer found
+Jun 30, 2024 07:19:42.82 
+Jun 30, 2024 07:19:42.82 
+Jun 30, 2024 07:20:01.21 [14592:5984:0630/072001.219:ERROR:autofill_popup_view_edge_views.cc(1082)] HasFocusnot implemented.
+Jun 30, 2024 07:20:02.56 [14592:5984:0630/072002.562:ERROR:autofill_popup_view_edge_views.cc(1082)] HasFocusnot implemented.
+Jun 30, 2024 07:20:08.46 [14592:16696:0630/072008.462:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+Jun 30, 2024 07:20:08.46 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 30, 2024 07:20:08.46 ERROR: Failed parsing Certificate
+Jun 30, 2024 07:20:08.46 
+Jun 30, 2024 07:20:08.61 [14592:16696:0630/072008.618:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for code.yengo.com failed:
+Jun 30, 2024 07:20:08.61 ----- Certificate i=0 (CN=code.yengo.com) -----
+Jun 30, 2024 07:20:08.61 ERROR: Time is after notAfter
+Jun 30, 2024 07:20:08.61 
+Jun 30, 2024 07:20:08.61 
+Jun 30, 2024 07:20:15.42 [14592:5984:0630/072015.408:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/M1aS3rct_O7Yykw5jEn3twwu4aE.gz.js (2)
+Jun 30, 2024 07:20:15.45 [14592:5984:0630/072015.455:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/M1aS3rct_O7Yykw5jEn3twwu4aE.gz.js (2)
+Jun 30, 2024 07:21:52.40 [14592:5984:0630/072152.402:ERROR:device_event_log_impl.cc(240)] [07:21:52.405] Bluetooth: bluetooth_adapter_winrt.cc:1056 Getting Default Adapter failed.
+Jun 30, 2024 07:21:57.74 [14592:5984:0630/072157.746:ERROR:chrome_web_ui_controller_factory.cc(1622)] Requested load of chrome://newtab/ for incorrect profile type.
+Jun 30, 2024 07:22:38.63 [14592:5984:0630/072238.639:ERROR:chrome_web_ui_controller_factory.cc(1622)] Requested load of chrome://newtab/ for incorrect profile type.
+Jun 30, 2024 07:23:08.41 [14592:5984:0630/072308.413:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 03, 2024 13:11:44.32 NEW SESSION
+Jul 03, 2024 13:11:44.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 13:16:20.96 [11564:18348:0703/131620.963:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=34
+Jul 03, 2024 13:35:39.47 [11564:18348:0703/133539.475:ERROR:device_event_log_impl.cc(196)] [13:35:39.481] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 03, 2024 13:52:53.87 [11564:17672:0703/135253.861:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 03, 2024 15:25:47.75 [11564:18348:0703/152547.747:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jul 03, 2024 15:25:47.75 [11564:18348:0703/152547.750:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 15:25:47.75 [11564:18348:0703/152547.750:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 15:25:47.76 [11564:18348:0703/152547.766:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 15:26:53.25 [11564:18348:0703/152653.251:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 15:26:53.25 [11564:18348:0703/152653.251:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 15:26:53.26 [11564:18348:0703/152653.265:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 15:45:43.23 [11564:18348:0703/154543.224:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 15:45:43.23 [11564:18348:0703/154543.232:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 15:45:43.24 [11564:18348:0703/154543.248:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+
+Jul 03, 2024 18:44:32.78 NEW SESSION
+Jul 03, 2024 18:44:32.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 19:00:00.79 [17508:20244:0703/190000.797:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 03, 2024 20:24:42.72 [17508:20244:0703/202442.722:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 03, 2024 21:49:08.68 [17508:13088:0703/214908.682:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jul 03, 2024 21:49:08.68 [17508:13088:0703/214908.683:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 21:49:08.68 [17508:13088:0703/214908.683:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 21:49:08.70 [17508:13088:0703/214908.707:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 21:53:45.53 [17508:13088:0703/215345.533:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8082/my-fashion-app/addtocart.jsp has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 21:53:52.96 [17508:13088:0703/215352.960:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8082/my-fashion-app/login.jsp has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 21:54:32.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 22:28:57.20 [15224:2340:0703/222857.199:ERROR:device_event_log_impl.cc(196)] [22:28:57.199] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 03, 2024 22:32:20.25 [15224:2340:0703/223220.256:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jul 03, 2024 22:32:20.25 [15224:2340:0703/223220.257:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 22:32:20.25 [15224:2340:0703/223220.257:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 22:32:20.26 [15224:2340:0703/223220.267:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 22:37:58.59 [15224:2340:0703/223758.589:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8082/my-fashion-app/login.jsp has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 22:37:58.61 [15224:2340:0703/223758.611:ERROR:CONSOLE(1)] "Received error with code E_FAILED while checking if react has loaded: "Operation failed: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 23:07:51.95 [15224:2340:0703/230751.953:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 23:07:51.95 [15224:2340:0703/230751.954:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 23:07:51.96 [15224:2340:0703/230751.962:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 03, 2024 23:12:03.72 [15224:2340:0703/231203.723:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+Jul 03, 2024 23:12:03.72 [15224:2340:0703/231203.723:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 03, 2024 23:12:03.72 [15224:2340:0703/231203.723:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 03, 2024 23:12:03.73 [15224:2340:0703/231203.731:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+
+Jul 04, 2024 13:18:07.25 NEW SESSION
+Jul 04, 2024 13:18:07.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 13:56:20.78 [7412:14424:0704/135620.785:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 04, 2024 13:56:20.78 [7412:14424:0704/135620.785:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 04, 2024 13:56:20.80 [7412:14424:0704/135620.800:ERROR:CONSOLE(1)] "Received error with code E_PROTOCOLERROR while checking if react has loaded: "Inspector protocol error: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 04, 2024 13:56:40.69 [7412:14424:0704/135640.694:ERROR:CONSOLE(1)] "Extension server error: Operation failed: http://localhost:8082/my-fashion-app/login.jsp has no execution context", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 04, 2024 13:56:40.69 [7412:14424:0704/135640.695:ERROR:CONSOLE(1)] "Received error with code E_FAILED while checking if react has loaded: "Operation failed: %s"", source: chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js (1)
+Jul 04, 2024 13:57:19.79 [7412:14424:0704/135719.791:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to Runtime.evaluate", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+Jul 04, 2024 13:57:19.79 [7412:14424:0704/135719.791:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Session is unregistering, can't dispatch pending call to Runtime.evaluate", source: devtools://devtools/bundled/devtools-frontend/front_end/models/extensions/extensions.js (1)
+Jul 04, 2024 13:59:49.59 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 14:33:28.26 [4784:16084:0704/143328.264:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 04, 2024 14:55:19.32 [4784:10548:0704/145519.324:ERROR:device_event_log_impl.cc(196)] [14:55:19.330] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 04, 2024 14:55:51.51 [4784:16084:0704/145551.510:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jul 04, 2024 16:05:53.12 NEW SESSION
+Jul 04, 2024 16:05:53.13 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jul 04, 2024 19:52:06.65 NEW SESSION
+Jul 04, 2024 19:52:06.66 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 19:59:30.06 [12044:6872:0704/195930.067:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 04, 2024 23:07:40.83 [12044:17144:0704/230740.824:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jul 04, 2024 23:11:00.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 23:31:36.72 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 23:54:14.45 [10232:10900:0704/235414.445:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Jul 05, 2024 13:04:01.23 NEW SESSION
+Jul 05, 2024 13:04:01.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 13:31:03.93 [8748:2052:0705/133103.933:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 05, 2024 13:42:25.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 14:29:05.39 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 14:46:04.09 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 15:00:50.27 [13980:11128:0705/150050.241:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 05, 2024 16:11:49.24 [13980:11128:0705/161149.249:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 05, 2024 16:43:44.34 [13980:11128:0705/164344.340:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jul 05, 2024 16:43:44.34 [13980:11128:0705/164344.340:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jul 05, 2024 17:11:29.25 [13980:11128:0705/171129.247:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jul 05, 2024 18:26:33.72 NEW SESSION
+Jul 05, 2024 18:26:33.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 18:26:51.88 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 18:45:31.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 05, 2024 19:18:59.13 [16824:14304:0705/191859.133:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 05, 2024 19:44:10.63 [16824:14304:0705/194410.629:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 05, 2024 23:00:44.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jul 06, 2024 18:11:24.63 NEW SESSION
+Jul 06, 2024 18:11:24.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 06, 2024 18:15:23.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 06, 2024 18:28:05.74 [11044:14496:0706/182805.745:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 06, 2024 23:09:15.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jul 07, 2024 18:31:50.75 NEW SESSION
+Jul 07, 2024 18:31:50.76 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 07, 2024 18:55:50.57 [11352:19892:0707/185550.573:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 07, 2024 19:08:29.40 [11352:19892:0707/190829.405:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jul 07, 2024 22:05:02.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jul 07, 2024 23:43:53.51 NEW SESSION
+Jul 07, 2024 23:43:53.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jul 09, 2024 09:33:07.40 NEW SESSION
+Jul 09, 2024 09:33:07.41 [5440:5304:0709/093307.398:ERROR:cert_verify_proc_builtin.cc(1057)] CertVerifyProcBuiltin for prod5c.rewardsplatform.microsoft.com failed:
+Jul 09, 2024 09:33:07.41 ----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+Jul 09, 2024 09:33:07.41 ERROR: No matching issuer found
+Jul 09, 2024 09:33:07.41 
+Jul 09, 2024 09:33:07.41 
+Jul 09, 2024 09:33:13.77 [5440:15404:0709/093313.777:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/QXIbRy5CoUud0IAZHcg3PVnPE0Y.gz.js (2)
+Jul 09, 2024 09:33:13.87 [5440:15404:0709/093313.871:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/QXIbRy5CoUud0IAZHcg3PVnPE0Y.gz.js (2)
+Jul 09, 2024 09:33:36.83 [5440:15404:0709/093336.833:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/QXIbRy5CoUud0IAZHcg3PVnPE0Y.gz.js (2)
+Jul 09, 2024 09:33:36.89 [5440:15404:0709/093336.896:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/QXIbRy5CoUud0IAZHcg3PVnPE0Y.gz.js (2)
+Jul 09, 2024 09:43:08.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 09, 2024 09:52:49.51 [3084:15292:0709/095249.515:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 10:27:35.94 [3084:15292:0709/102735.946:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 10:38:09.11 [3084:15292:0709/103809.116:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jul 09, 2024 10:38:09.11 [3084:15292:0709/103809.116:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+Jul 09, 2024 11:02:11.05 [3084:15292:0709/110211.048:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 13:51:09.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 09, 2024 14:03:37.03 [6924:16784:0709/140337.030:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 14:10:07.99 [6924:16784:0709/141007.997:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jul 09, 2024 14:34:10.01 [6924:16784:0709/143410.019:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 14:34:10.07 [6924:16784:0709/143410.073:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 09, 2024 14:36:56.04 [6924:16784:0709/143656.040:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jul 09, 2024 15:13:42.26 [6924:10772:0709/151342.266:ERROR:device_event_log_impl.cc(196)] [15:13:42.264] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 09, 2024 15:39:15.03 [6924:16784:0709/153915.034:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jul 09, 2024 15:49:04.97 [6924:16784:0709/154904.977:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7

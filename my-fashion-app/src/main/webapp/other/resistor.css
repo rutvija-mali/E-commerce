@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+#register-container #form-container{
+    width: 45vw;
+    height: 65vh;
+}
+ #register-container .login-form .error-message{
+	color:red;
+	font-size:.7rem;
+	display:none;
+	padding-top:2.5px;
+    
+}
+.login-box{
+    background-color: #fff;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, .1);
+    padding: 30px 15px 20px 15px;
+    max-width: 410px;
+    margin: 40px auto;
+    padding-bottom: 25px;
+}
+
+
+#register-container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+@media screen and (max-width: 670px) {
+    #register-container #form-container{
+        width: 86vw;
+        
+    }
+  }
+  @media screen and (max-height: 800px) {
+    #register-container #form-container{
+        height: 67vh;
+              
+    }
+  }
+  @media screen and (min-height: 801px) {
+    #register-container #form-container{
+        height: 50vh;
+            
+    }
+  }
+ 

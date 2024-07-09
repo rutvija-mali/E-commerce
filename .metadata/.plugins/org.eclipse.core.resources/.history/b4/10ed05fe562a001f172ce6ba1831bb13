@@ -1,0 +1,109 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ page import="com.demo.User" %>
+<%@ page import="com.demo.product.Product" %>
+ <%@ page import="com.demo.product.ProductDao" %>
+ 
+ <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath }/other/getAllProducts.css" >
+<%
+   User user = (User)session.getAttribute("current-user");
+    if(user == null)
+    {
+    	// send msg
+    	response.sendRedirect("login.jsp");
+    	return;
+    }else if(user.getRole() == "customer"){
+    	// send msg
+    	response.sendRedirect("login.jsp");
+    	return;
+    }
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<% 
+    int id = (Integer)request.getAttribute("id");
+    Product product = ProductDao.getProduct(id);
+%>
+ <jsp:include page="./admin.jsp"></jsp:include>
+  <div class="container-fluid" id="addProduct">
+       <div class="d-flex flex-column align-items-center ">
+            <div class="d-flex align-items-center mt-3 ms-2">
+                <h3>Products</h3>
+                <span class="text-secondary ms-3">Edit Product</span>
+            </div>
+            <div class=" pt-3 p-4 mt-4" id="addProductFormDiv">
+               <form action="${pageContext.request.contextPath }/function/saveProduct.jsp" method="post">
+                  <div class="mb-3" >
+                    <label for="exampleInputProductName" class="form-label">Product name</label>
+                     <input type="text" class="form-control " name="product_name" id="exampleInputProductName" aria-describedby="productName" value="<%=product.getProduct_name() %>" >
+                     
+                  </div>
+                   <div class="mb-3 row justify-content-start double-div ">
+                        <div class="col-sm-12 col-md-6">
+                            <label for="productPrice" class="form-label">Price</label>
+                            <input type="text" id="productPrice"name="product_price" class="form-control double-input" value="<%=product.getProduct_price() %>" aria-describedby="productPrice" >
+                            
+                        </div>
+                        <div class="col-sm-12 col-md-6 "> 
+                            <label for="productCategory" class="form-label">Category</label>
+                            <input type="text" id="productCategory" name="product_category" class="form-control double-input" aria-describedby="productCategory" value="<%=product.getProduct_category() %>" >
+                            
+                        </div>
+                    </div>
+                   
+                    <div class="mb-3 row  justify-content-start double-div">
+                       <div class="col-sm-12 col-md-6">
+                            <label for="productForGender" class="form-label">Gender</label>
+                            <select class="form-select form-control double-input" id="productForGender" name="gender"  aria-label="productForGender" >
+                                <option selected>value="<%=product.getGender() %>"</option>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                                <option value="Other">Other</option>
+                            </select>
+                           
+                       </div>
+                       <div class="col-sm-12 col-md-6  ">
+                            
+                            <label for="productColor" class="form-label">Color</label>
+                            <input type="text" id="productColor"class="form-control double-input" name="product_color" aria-describedby="productColor"  value="<%=product.getProduct_color()%>" >
+                            
+                        </div>
+                    </div>
+                    <div class="mb-3 row  justify-content-start double-div">
+                        <div class="col-sm-12 col-md-6  ">
+                            <label for="productSize" class="form-label">Size</label>
+                            <input type="text" id="productSize" class="form-control double-input" name="product_size" value="<%=product.getProduct_size() %>" aria-describedby="productSize"  >
+                           
+                        </div>
+                        <div class="col-sm-12 col-md-6 "> 
+                            <label for="productQty" class="form-label">Quantity</label>
+                            <input type="text" id="productQty"class="form-control double-input" name="product_qty" aria-describedby="productQty" value="<%=product.getProduct_qty() %>">
+                            <
+                        </div>
+                    </div>
+                    
+                    <div class="mb-3 ">
+                        <label for="productDescription">Description</label>
+                        <textarea id="productDescription" class="form-control" rows="4" name="product_desc" value="<%=product.getProduct_desc()%>"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="productImage">Upload Image</label>
+                        <input type="file" id="productImage" name="image" accept="image/*" value="<%=product.getImage() %>" >
+                        
+                    </div>
+                   <div class="mb-3 d-flex justify-content-center align-items-center">
+                     <button type="submit" class="btn btn-dark w-50 mt-3" id="addProduct">Save</button>
+                   </div>
+               </form>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

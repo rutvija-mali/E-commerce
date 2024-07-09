@@ -1,0 +1,58 @@
+package com.demo.order;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+
+import org.json.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import com.razorpay.Order;
+import com.razorpay.OrderClient;
+import com.razorpay.RazorpayClient;
+import com.razorpay.RazorpayException;
+
+
+
+
+@WebServlet("/orderServlet")
+public class OrderServlet extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		 
+		 JSONParser parser = new JSONParser();
+		 
+		try {
+			JSONObject object = (JSONObject) parser.parse(request.getReader());
+			String amountString = (String)object.get("price");
+			System.out.println("amount is "+amountString);
+			int amount = Integer.parseInt(amountString);
+			RazorpayClient client = new RazorpayClient("rzp_test_yVDgRhYuDx3lXm","jq8wpYMxqhbZbgvy3K6nyigh");
+			
+			
+			JSONObject ob = new JSONObject();
+			
+			ob.put("amount",amount*100);
+			ob.put("currency","INR");
+			ob.put("receipt","tnx_123456");
+			
+			Order order = client.Orders.create(ob);
+			
+			System.out.println(order);
+			
+		} catch (IOException | ParseException | RazorpayException e) {
+			
+			e.printStackTrace();
+		}
+		 
+		
+		
+	}
+
+}

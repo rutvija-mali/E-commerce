@@ -1,0 +1,109 @@
+@charset "ISO-8859-1";
+     :root{
+            --offcanvas-width :270px;
+           --topNavbarHeight:56px;
+	      --light-grey:#999;
+	      --pink:#CD0E57;
+	      --dark-grey:#757886;
+	      --general:#333;
+	      --white:#fff;
+	      --black:#000000;
+      
+     
+            }
+            #bd-sidebar{
+            width: var(--offcanvas-width);
+            height: 100vh-58vh;
+            }
+            @media (min-width:592px){
+                #bd-sidebar{
+                transform: none;
+                visibility: visible !important;
+                
+                height: calc(100% - var(--topNavbarHeight));
+                }
+                body{
+                overflow: auto !important;
+                }
+                .offcanvas-backdrop::before{
+                display: none;
+                
+                }
+              }
+    @media (max-width:730px) {
+      #bd-sidebar{
+        width: 29%;
+       height: auto;
+      }
+      #product-container{
+      width:100%-29% !important ;
+      margin-left: 29% !important;
+     
+      }
+    
+    }
+    @media (max-width:590px) {
+      #product-container{
+      width:100% !important ;
+      margin-left: 0px !important;
+     
+      }
+    
+    }
+              
+  .offcanvas-body {
+    padding: 20px;
+  }
+  .list-group-item {
+    border: none; /* Remove border from list-group-item */
+    border-bottom: 0.5px solid #f1f1f1 ;
+    transition: background-color 0.3s ease;
+    font-size: medium;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .main{
+    border-bottom: 0.5px solid #d7d6d6 ;
+    font-weight: 500;
+    font-size: large;
+  }
+  .list-group-item:hover {
+   color: black;
+  }
+   .main.card {
+    border: none; /* Remove border from card */
+  }
+  .main.card-body {
+    padding: 0.5rem 1rem;
+  }
+  .checkbox label {
+    width: 100%;
+  }
+  .checkbox input[type="checkbox"] {
+    margin-right: 10px;
+  }
+ 
+
+  #product-container{
+    width:100% - var(--offcanvas-width);
+    margin-left: var(--offcanvas-width);
+   
+  }
+  .product-card .card{
+        width: 100%;
+        height: 100%;
+   }
+  #product-container #total-star,
+  #product-container #totalProductCount,#product-container #original-price{
+    
+    color:var(--light-grey);
+  }
+   #product-container #price{
+      color:var(--general);
+   }
+   .sidebar #bd-sidebar{
+    margin-top: 98px !important;  /* add to root*/
+    
+    margin-bottom: 40vh;
+   }
+   

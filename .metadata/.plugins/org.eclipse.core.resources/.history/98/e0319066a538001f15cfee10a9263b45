@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <wb-module deploy-name="my-fashion-app">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                                                                
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/webapp/WEB-INF/lib"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-2.0.0 (1).jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/jakarta.servlet.jsp.jstl-2.0.0 (1).jar">
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <dependency-type>uses</dependency-type>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        </dependent-module>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-api-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/jakarta.servlet.jsp.jstl-api-2.0.0.jar">
+                                                                                                            
+            
+            
+            
+            
+            
+            
+            
+            <dependency-type>uses</dependency-type>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        </dependent-module>
+                                                
+        
+        
+        
+        
+        <dependent-module archiveName="mysql-connector-j-8.3.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0.jar">
+                                                                        
+            
+            
+            
+            
+            <dependency-type>uses</dependency-type>
+                                                                    
+        
+        
+        
+        
+        </dependent-module>
+                        
+        
+        <dependent-module archiveName="json-simple-1.1.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/json-simple-1.1.1.jar">
+                                    
+            
+            <dependency-type>uses</dependency-type>
+                                
+        
+        </dependent-module>
+                
+        <dependent-module archiveName="razorpay-java-1.3.9.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/razorpay-java-1.3.9.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="json-20230227.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/json-20230227.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="logging-interceptor-4.9.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/logging-interceptor-4.9.3.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="kotlin-stdlib-1.8.20.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/kotlin-stdlib-1.8.20.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <dependent-module archiveName="okhttp-4.10.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/okhttp-4.10.0.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+        <dependent-module archiveName="okio-2.8.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/javaSoftwere/okio-2.8.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <property name="context-root" value="my-fashion-app"/>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/my-fashion-app/build/classes"/>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </wb-module>
+                                    
+
+
+
+
+
+
+
+
+</project-modules>

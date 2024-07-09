@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\rutvi\OneDrive\Desktop\fashion-app\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1979369913.index
+529310919.index
+2386953732.index
+4168554596.index
+2476226209.index
+1826355762.index
+1701414809.index
