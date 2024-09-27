@@ -63,6 +63,12 @@ Inspired by the growing trend of online shopping, I wanted to develop a platform
 1. Start Apache Tomcat from within Eclipse by right-clicking on the project and selecting "Run on Server".
 2. Open your web browser and navigate to http://localhost:8080/ecommerce-app.
 
+## Screenshots
+Here are some screenshots of the application:
+
+![Home Page](images/home.png)
+![Login Page](images/login.png)
+
 ### Clone the Repository
 Clone the project to your local machine:
 ```bash
