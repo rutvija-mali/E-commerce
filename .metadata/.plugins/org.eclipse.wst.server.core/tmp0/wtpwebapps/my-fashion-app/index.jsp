@@ -67,7 +67,7 @@
 		<!-- Owl Carousel HTML -->
 		<div class="owl-carousel owl-theme">
 		    <c:forEach items="${list}" var="product" begin="0" end="9">
-			   <div class="item product-card" >
+			   <div class="item product-card "  >
 				   <div class="card">
 				        <div class="card-body">
 				            <div class="text-start position-relative mb-2">

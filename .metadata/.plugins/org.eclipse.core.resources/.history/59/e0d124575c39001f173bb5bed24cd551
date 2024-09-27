@@ -1,9 +1,0 @@
-package com.demo.order;
-
-public class Order {
- private int myOrderId;
- private String orderid;
- private int amount;
- private String paymentid;
- private String receipt ,status;
-}

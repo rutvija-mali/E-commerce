@@ -132,10 +132,10 @@
 		                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 ">
 		                 <div class="d-flex justify-content-evenly  w-100">
 		                    <div class="p-2">
-		                      <nav class="nav-item"><a href="#" class="nav-link">Home</a></nav>
+		                      <nav class="nav-item"><a href="${pageContext.request.contextPath}/index.jsp" class="nav-link">Home</a></nav>
 		                    </div>
 		                    <div class="p-2">
-		                      <nav class="nav-item"><a href="#" class="nav-link">All products</a></nav>
+		                      <nav class="nav-item"><a href="${pageContext.request.contextPath }/product.jsp?category=all" class="nav-link">All products</a></nav>
 		                    </div>
 		                    <div class="p-2">
 		                     <div class=" nav-item dropdown">
@@ -143,9 +143,9 @@
 		                          Tops <span class="ps-2 small"><i class="fa-solid fa-chevron-down"></i></span>
 		                        </a>
 		                        <ul class="dropdown-menu">
-		                          <li><a class="dropdown-item" href="#">Floweral Tops</a></li>
-		                          <li><a class="dropdown-item" href="#">Cropped Tops</a></li>
-		                          <li><a class="dropdown-item" href="#">Tops</a></li>
+		                          <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Tops">Floweral Tops</a></li>
+		                          <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Tops">Cropped Tops</a></li>
+		                          <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Tops">Tops</a></li>
 		                        </ul>
 		                     </div>
 		                     
@@ -153,7 +153,7 @@
 		                  
 		                    <div class="p-2">
 		                      <li class="nav-item">
-		                      <a class="nav-link link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		                      <a class="nav-link link " href="${pageContext.request.contextPath }/product.jsp?category=Co-ords" role="button"  >
 		                        Co-ords
 		                      </a></li>
 		                      
@@ -165,11 +165,11 @@
 		                        Exclusive  <span class="ps-2 small"><i class="fa-solid fa-chevron-down"></i></span>
 		                      </a>
 		                      <ul class="dropdown-menu">
-		                        <li><a class="dropdown-item" href="#">Tops</a></li>
-		                        <li><a class="dropdown-item" href="#">Shorts</a></li>
-		                        <li><a class="dropdown-item" href="#">Dresses</a></li>
-		                        <li><a class="dropdown-item" href="#">Denimes</a></li>
-		                        <li><a class="dropdown-item" href="#">Jumpsuit</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Tops">Tops</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Skirts and Shorts">Shorts</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Dresses">Dresses</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Denim">Denim</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Co-ords">Jumpsuit</a></li>
 		                      </ul>
 		                      </div>
 		                    </div>
@@ -179,9 +179,9 @@
 		                        New In <span class="ps-2 small"><i class="fa-solid fa-chevron-down"></i></span>
 		                      </a>
 		                      <ul class="dropdown-menu">
-		                        <li><a class="dropdown-item" href="#">TOPs</a></li>
-		                        <li><a class="dropdown-item" href="#">Shorts</a></li>
-		                        <li><a class="dropdown-item" href="#">Denimes</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Tops">Tops</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Skirts and Shorts">Shorts</a></li>
+		                        <li><a class="dropdown-item" href="${pageContext.request.contextPath }/product.jsp?category=Denim">Denim</a></li>
 		                      </ul>
 		                      </div>
 		                    </div>

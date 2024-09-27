@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+ :root{
+ --topNavbarHeight:56px;
+ }
+  #addCategory{
+  
+   margin-top:var(--topNavbarHeight);
+  }
+  #addCategoryFormDiv{
+            width: 40%;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, .1);
+            
+            font-weight: 500;
+            
+        }
+        #addCategoryFormDiv input{
+            width: 100%;
+            
+        }
+       
+        @media(max-width:1085px){
+                #addCategoryFormDiv{
+                width: 60%;
+               
+            }  
+           
+        }
+        @media(max-width:701px){
+                #addCategoryFormDiv{
+                width: 80%;
+               
+            } 
+            #addCategoryFormDiv input{
+            width: 95%;
+
+            } 
+           
+            
+        }

@@ -69,12 +69,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/javaSoftwere/apache-commons-lang.jar/apache-commons-lang.jar">
+	<classpathentry kind="lib" path="C:/javaSoftwere/commons-text-1.4.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/javaSoftwere/commons-text-1.4.jar">
+	<classpathentry kind="lib" path="C:/javaSoftwere/apache-commons-lang.jar/apache-commons-lang.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
