@@ -66,7 +66,7 @@ Inspired by the growing trend of online shopping, I wanted to develop a platform
 ## Screenshots
 Here are some screenshots of the application:
 
-![Home Page](img/screenshots/localhost_8082_my-fashion-app_index.jsp (3).png)
+![Home Page](img/screenshots/localhost_8082_my-fashion-app_index_3.png)
 ![Login Page](images/login.png)
 
 ### Clone the Repository
